@@ -7,4 +7,9 @@ h1 {
   body {
     background-color: #cde0f7;
     font-family: "Work Sans", sans-serif;
+    padding-top: 50px;
+    padding-right: 120px;
+    padding-bottom: 50px;
+    padding-left: 120px;
+
   }
